@@ -1,2 +1,2 @@
 # testing-git
-for testing the git functionalities
+for testing the git functionalities for us!
